@@ -22,8 +22,8 @@
   "keywords": [
     "callbag",
     "callbags",
-    "drop",
-    "distinct"
+    "pairwise",
+    "tuple"
   ],
   "author": "Mateusz Burzyński <mateuszburzynski@gmail.com> (https://github.com/Andarist)",
   "license": "MIT",
