@@ -1,6 +1,6 @@
 {
   "name": "callbag-pairwise",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "👜 Callbag operator that emits the previous and current values as an array.",
   "main": "dist/callbag-pairwise.js",
   "module": "dist/callbag-pairwise.es.js",
